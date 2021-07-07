@@ -45,7 +45,7 @@ Azure Active Directory conditional access is an advanced feature of Azure AD tha
 
 1. In the Select pane, select **Office 365 Yammer** and then select **Select**.
 
-1. Select **Conditions** and then select **Conditions**.
+1. Select **Conditions** and then select **Locations**.
 
 1. Under **Configure**, select **Yes** and then select **Any location**.
 
